@@ -1,0 +1,70 @@
+.card{
+    margin-top: 10px;
+    border: none;
+    width: 500px;
+    padding: 30px;
+    height: 290px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background: hsla(205,46%,30%,1);
+    background: linear-gradient(90deg, hsla(205,46%,30%,1) 0%, hsla(260,29%,36%,1) 100%);
+}
+.text-center{
+justify-content: center;
+margin-left: 232px;
+margin-top: -12px;
+}
+h4{
+    margin-left: 140px;
+    color: white;
+    margin-top: -19px;
+    position: relative;
+}
+.form-control{
+    margin-top: 25px;
+    margin-left: -95px;
+    width: 400px;
+    height: 20px;
+    position: absolute;
+}
+.form-label{
+    color:chartreuse;
+}
+.form-text{
+    margin-top: 40px;
+    margin-left: -10px;
+    width: 400px;
+    height: 20px;
+    position: absolute;
+}
+.mb-2{
+margin-top: 50px;
+display:flexbox;
+}
+.btn{
+    margin-top: 80px;
+    width: 80px;
+    height: 34px;
+    background-color: blue;
+    border: none;
+}
+.label{
+    margin-top: 20px;
+    position:absolute;
+    color:chartreuse;
+}
+.control{
+    margin-top: 40px;
+    position:absolute;
+    width: 400px;
+    height: 20px;
+    margin-left: -8px;
+}
+a{
+    margin-top: 20px;
+    color:aquamarine;
+    position: absolute;
+    margin-left: -12px;
+}

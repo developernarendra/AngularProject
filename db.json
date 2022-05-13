@@ -1,0 +1,42 @@
+{
+  "signupUsers": [
+    {
+      "fullname": "dsffsd",
+      "email": "dfd",
+      "password": "dfdf",
+      "mobile": null,
+      "id": 1
+    },
+    {
+      "fullname": "narendra",
+      "email": "1234567",
+      "password": "narendraparora55@gmail.com",
+      "mobile": 8445877900,
+      "id": 2
+    },
+    {
+      "fullname": "bholu",
+      "email": "123456789",
+      "password": "narendraparora55@gmail.com",
+      "mobile": 8445877900,
+      "id": 3
+    },
+    {
+      "fullname": "narendra",
+      "email": "narendraparora55@gmail.com",
+      "password": "1234567890",
+      "mobile": 8445877900,
+      "id": 4
+    },
+    {
+      "fullname": "hi",
+      "email": "3434",
+      "password": "3434",
+      "mobile": 3434,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
